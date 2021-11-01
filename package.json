@@ -1,8 +1,8 @@
 {
   "name": "hummingcli",
   "version": "1.0.0",
-  "description": "Hummingbird command line client",
-  "main": "index.js",
+  "description": "HummingCLI",
+  "main": "hummingcli.js",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
